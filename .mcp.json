@@ -2,7 +2,7 @@
   "mcpServers": {
     "trends-mcp": {
       "type": "streamable-http",
-      "url": "https://amazon.api.trendsmcp.ai/mcp",
+      "url": "https://api.trendsmcp.ai/mcp",
       "headers": {
         "Authorization": "${TRENDSMCP_API_KEY}"
       }
